@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gilangpassasi
 - 👀 I’m interested in conservation and forest engineering
-- 🌱 I’m currently learning python and R
+- 🌱 I’m currently learning Python and R
 - 📫 How to reach me : www.linkedin.com/in/gilangpassasi
 
 <!---
